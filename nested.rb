@@ -133,8 +133,8 @@ end
 
 
 
-let hello = "hello";
-let world = "world";
+var hello = "hello";
+var world = "world";
 
 
 
